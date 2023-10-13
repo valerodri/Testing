@@ -126,7 +126,7 @@ function showProductImages(images, description) {
     let htmlContentToAppend = "";
     htmlContentToAppend += `  
    <div class="row justify-content-md-center">
-   <div div class="col-md-7 order-md-1 img-thumbnail">
+   <div div class="col-md-7 order-md-1 order-first img-thumbnail">
    <div id="imagenesCarrusel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
