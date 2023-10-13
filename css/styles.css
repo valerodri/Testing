@@ -220,5 +220,5 @@ a.custom-card:hover {
   max-width: 100%;
   min-height: 50px;
   background-size: cover;
-  background-position: center;
+  background-position: left;
 }
